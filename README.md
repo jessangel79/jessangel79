@@ -9,7 +9,7 @@ Motivée, curieuse, créative, organisée, déterminée, rigoureuse et impliqué
 
 Vous pouvez me contacter :
 - soit sur Twitter [@AngeliqueBabin](https://twitter.com/AngeliqueBabin_)
-- soit par via plateforme [Malt.fr](https://www.malt.fr/profile/angeliquebabin)
+- soit via la plateforme [Malt.fr](https://www.malt.fr/profile/angeliquebabin)
 - soit par mail à l'adresse [babin.angelique@gmail.com](mailto:babin.angelique@gmail.com)
 
 ------------
