@@ -40,7 +40,7 @@ Vous pouvez me contacter :
 </details>
     
 <details>
-  <summary><strong>Ce que j'étudie actuellement :</strong></summary>
+  <summary><strong>Ce que j'étudie actuellement et à venir :</strong></summary>
     - Kotlin - Android Studio <br/>
     - MVVM <br/>
     - SwiftUI <br/>
