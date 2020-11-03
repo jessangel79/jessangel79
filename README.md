@@ -24,3 +24,41 @@ Vous pouvez me contacter :
   <a href="https://www.youtube.com/channel/UCWixVGfNeihNp3BzxJ3LfGw/about?view_as=subscriber"><img height="24" src="https://github.com/jessangel79/jessangel79/blob/main/icons8-youtube.png?raw=true"></a>&nbsp;&nbsp;  
   <a href="https://www.malt.fr/profile/angeliquebabin"><img height="24" src="https://github.com/jessangel79/jessangel79/blob/main/icons8-home_office.png?raw=true"></a>&nbsp;&nbsp;
 </p>
+
+<details>
+  <summary><strong>Compétences - langages :</strong></summary>
+    - Swift 5 - Xcode <br/>
+    - Programmation Orientée Objet <br/>
+    - Programmation Orientée Protocole <br/>
+    - MVC <br/>
+    - Core Data - Realm <br/>
+    - API Rest <br/>
+    - Tests Unitaires <br/>
+    - Git & GitHub <br/>
+    - Trello <br/>
+    - Gestion de projet
+</details>
+    
+<details>
+  <summary><strong>Ce que j'étudie actuellement :</strong></summary>
+    - Kotlin - Android Studio <br/>
+    - MVVM <br/>
+    - SwiftUI <br/>
+    - Objective-C <br/>
+    - FireStore - FireBase <br/>
+    - GitLab <br/>
+    - React Native <br/>
+    - MVP
+</details>
+
+<p>
+  <a href="https://www.linkedin.com/in/ang%C3%A9lique-babin-158aa874"><img src="https://github.com/jessangel79/jessangel79/blob/main/QRCode-Photo_AB.png?raw=true" width="350"
+     height="459">
+  </a> 
+</p>
+
+![Les statistiques d'AngelAppDev github](https://github-readme-stats.vercel.app/api?username=jessangel79&show_icons=true&hide=["prs","issues","contribs"])
+
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=down&style=plastic&up_message=online&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%2Fhttps%2Fwww.angelappdev.fr)
+![platform](https://img.shields.io/badge/platform-ios%20%7C%20watchos%20%7C%20osx-blue)
+![language](https://img.shields.io/badge/language-swift%205.3-orange)
