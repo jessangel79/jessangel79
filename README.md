@@ -26,7 +26,7 @@ Vous pouvez me contacter :
 </p>
 
 <details>
-  <summary><strong>Compétences - langages :</strong></summary>
+  <summary><strong>Compétences - Langages :</strong></summary>
     - Swift 5 - Xcode <br/>
     - Programmation Orientée Objet <br/>
     - Programmation Orientée Protocole <br/>
