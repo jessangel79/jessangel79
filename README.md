@@ -34,7 +34,8 @@ Vous pouvez me contacter :
     - Programmation Orientée Objet <br/>
     - Programmation Orientée Protocole <br/>
     - MVC <br/>
-    - Core Data - Realm <br/>
+    - Core Data <br/>
+    - Realm <br/>
     - API Rest <br/>
     - Tests Unitaires <br/>
     - Git & GitHub <br/>
