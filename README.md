@@ -34,8 +34,7 @@ Vous pouvez me contacter :
     - Programmation Orientée Objet <br/>
     - Programmation Orientée Protocole <br/>
     - MVC <br/>
-    - Core Data <br/>
-    - Realm <br/>
+    - Core Data - Realm <br/>
     - API Rest <br/>
     - Tests Unitaires <br/>
     - Git & GitHub <br/>
@@ -52,7 +51,8 @@ Vous pouvez me contacter :
     - FireStore - FireBase <br/>
     - GitLab <br/>
     - React Native <br/>
-    - MVP
+    - MVP <br/>
+    - Flutter - Dart
 </details>
 
 <p>
