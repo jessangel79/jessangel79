@@ -35,6 +35,8 @@ Vous pouvez me contacter :
     - Programmation Orientée Protocole <br/>
     - MVC <br/>
     - Core Data <br/>
+    - Firebase / Firestore <br/>
+    - Realm <br/>
     - API Rest <br/>
     - Tests Unitaires <br/>
     - Git & GitHub <br/>
