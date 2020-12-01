@@ -60,7 +60,7 @@ Vous pouvez me contacter :
   </a> 
 </p>
 
-![Les statistiques d'AngelAppDev github](https://github-readme-stats.vercel.app/api?username=jessangel79&show_icons=true&hide=["prs","issues","contribs"])
+<!-- ![Les statistiques d'AngelAppDev github](https://github-readme-stats.vercel.app/api?username=jessangel79&show_icons=true&hide=["prs","issues","contribs"]) -->
 
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=down&style=plastic&up_message=online&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%2Fhttps%2Fwww.angelappdev.fr)
 ![platform](https://img.shields.io/badge/platform-ios%20%7C%20watchos%20%7C%20osx-blue)
