@@ -34,7 +34,7 @@ Vous pouvez me contacter :
     - Programmation Orientée Objet <br/>
     - Programmation Orientée Protocole <br/>
     - MVC <br/>
-    - Core Data - Realm <br/>
+    - Core Data <br/>
     - API Rest <br/>
     - Tests Unitaires <br/>
     - Git & GitHub <br/>
@@ -44,15 +44,15 @@ Vous pouvez me contacter :
     
 <details>
   <summary><strong>Ce que j'étudie actuellement et à venir :</strong></summary>
+    - FireStore - FireBase <br/>
+    - SwiftUI <br/>
+    - Flutter - Dart <br/>
+    - Realm <br/>
+    - Objective-C <br/>
     - Kotlin - Android Studio <br/>
     - MVVM <br/>
-    - SwiftUI <br/>
-    - Objective-C <br/>
-    - FireStore - FireBase <br/>
     - GitLab <br/>
-    - React Native <br/>
-    - MVP <br/>
-    - Flutter - Dart
+    - MVP
 </details>
 
 <p>
