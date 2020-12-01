@@ -37,6 +37,7 @@ Vous pouvez me contacter :
     - Core Data <br/>
     - Firebase / Firestore <br/>
     - Realm <br/>
+    - UIKit / SwiftUI <br/>
     - API Rest <br/>
     - Tests Unitaires <br/>
     - Git & GitHub <br/>
