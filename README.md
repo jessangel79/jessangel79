@@ -59,8 +59,8 @@ Vous pouvez me contacter :
 </details>
 
 <p>
-  <a href="https://www.linkedin.com/in/ang%C3%A9lique-babin-158aa874"><img src="https://github.com/jessangel79/jessangel79/blob/main/QRCode-Photo_AB.png?raw=true" width="350"
-     height="459">
+  <a href="https://www.linkedin.com/in/ang%C3%A9lique-babin-158aa874"><img src="https://github.com/jessangel79/jessangel79/blob/main/QRCode-Photo_AB.png?raw=true" width="280"
+     height="367">
   </a> 
 </p>
 
