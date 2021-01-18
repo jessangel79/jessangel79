@@ -30,7 +30,7 @@ Vous pouvez me contacter :
 
 <details>
   <summary><strong>Compétences - Langages :</strong></summary>
-    - Swift 5 - Xcode <br/>
+    - Swift 5 - Xcode - iOS <br/>
     - Programmation Orientée Objet <br/>
     - Programmation Orientée Protocole <br/>
     - MVC <br/>
@@ -47,14 +47,12 @@ Vous pouvez me contacter :
     
 <details>
   <summary><strong>Ce que j'étudie actuellement et à venir :</strong></summary>
-    - FireStore - FireBase <br/>
     - SwiftUI <br/>
-    - Flutter - Dart <br/>
-    - Realm <br/>
+    - FireStore - FireBase <br/>
+    - Flutter / Dart - Android Studio <br/>
     - Objective-C <br/>
-    - Kotlin - Android Studio <br/>
-    - MVVM <br/>
     - GitLab <br/>
+    - MVVM <br/>
     - MVP
 </details>
 
