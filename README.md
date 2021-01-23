@@ -49,7 +49,7 @@ Vous pouvez me contacter :
   <summary><strong>Ce que j'étudie actuellement et à venir :</strong></summary>
     - SwiftUI <br/>
     - FireStore - FireBase <br/>
-    - Flutter / Dart - Android Studio <br/>
+    - Flutter / Dart <br/>
     - Objective-C <br/>
     - GitLab <br/>
     - MVVM <br/>
