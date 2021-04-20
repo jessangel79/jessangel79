@@ -1,5 +1,5 @@
 <p align='center'>
-<img alt="AngelAppDev" width="500" height="210" src="https://github.com/jessangel79/jessangel79/blob/main/karim-manjra-6ybGCLrzy_w-unsplash.jpg?raw=true">
+<img alt="AngelAppDev" width="500" height="210" src="https://github.com/jessangel79/jessangel79/blob/main/Img/karim-manjra-6ybGCLrzy_w-unsplash.jpg?raw=true">
 </p>
 
 ### Hello world 👋
@@ -19,35 +19,35 @@ Vous pouvez me contacter :
 
 <p align='center'>
   <a href="https://www.angelappdev.io/">
-    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/icons8-blog.png?raw=true">
+    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/Img/icons8-blog.png?raw=true">
   </a>&nbsp;&nbsp;
   
   <a href="https://www.malt.fr/profile/angeliquebabin">
-    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/icons8-home_office.png?raw=true">
+    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/Img/icons8-home_office.png?raw=true">
   </a>&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/ang%C3%A9lique-babin-158aa874/">
-    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/icons8-linkedin.png?raw=true">
+    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/Img/icons8-linkedin.png?raw=true">
   </a>&nbsp;&nbsp;
 
   <a href="https://twitter.com/AngeliqueBabin_">
-    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/icons8-twitter.png?raw=true">
+    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/Img/icons8-twitter.png?raw=true">
   </a>&nbsp;&nbsp;
   
   <a href="https://www.instagram.com/angelique.babin.angelappdev/">
-    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/icons8-instagram.png?raw=true">
+    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/Img/icons8-instagram.png?raw=true">
   </a>&nbsp;&nbsp;
 
   <a href="mailto:babin.angelique@gmail.com">
-    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/icons8-envelope.png?raw=true">
+    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/Img/icons8-envelope.png?raw=true">
   </a>&nbsp;&nbsp;
   
   <a href="https://www.facebook.com/angelique.babin.angelappdev">
-    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/icons8-facebook.png?raw=true">
+    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/Img/icons8-facebook.png?raw=true">
   </a>&nbsp;&nbsp;
  
   <a href="https://www.youtube.com/channel/UCWixVGfNeihNp3BzxJ3LfGw/about?view_as=subscriber">
-    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/icons8-youtube.png?raw=true">
+    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/Img/icons8-youtube.png?raw=true">
   </a>&nbsp;&nbsp;  
 </p>
 
@@ -80,7 +80,7 @@ Vous pouvez me contacter :
 </details>
 
 <p>
-  <a href="https://www.linkedin.com/in/ang%C3%A9lique-babin-158aa874"><img src="https://github.com/jessangel79/jessangel79/blob/main/QRCode-Photo_AB.png?raw=true" width="280"
+  <a href="https://www.linkedin.com/in/ang%C3%A9lique-babin-158aa874"><img src="https://github.com/jessangel79/jessangel79/blob/main/Img/QRCode-Photo_AB.png?raw=true" width="280"
      height="367">
   </a> 
 </p>
