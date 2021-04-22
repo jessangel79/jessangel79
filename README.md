@@ -65,7 +65,8 @@ Vous pouvez me contacter :
     - Tests Unitaires <br/>
     - Git & GitHub <br/>
     - Trello <br/>
-    - Gestion de projet
+    - Gestion de projet<br/>
+    - CoreML / CreateML
 </details>
     
 <details>
