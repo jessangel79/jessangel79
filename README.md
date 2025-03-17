@@ -21,10 +21,6 @@ Vous pouvez me contacter :
   <a href="https://www.angelappdev.io/">
     <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/Img/icons8-blog.png?raw=true">
   </a>&nbsp;&nbsp;
-  
-  <a href="https://www.malt.fr/profile/angeliquebabin">
-    <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/Img/icons8-home_office.png?raw=true">
-  </a>&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/ang%C3%A9lique-babin-158aa874/">
     <img height="30" src="https://github.com/jessangel79/jessangel79/blob/main/Img/icons8-linkedin.png?raw=true">
