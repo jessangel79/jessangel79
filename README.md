@@ -7,12 +7,11 @@ Passionnée depuis toujours par l'informatique, puis ensuite par l'univers mobil
 
 Mon expérience en tant que *technicienne informatique* pendant 6 ans m'a beaucoup appris sur la ***relation client et l'expérience utilisateur***.
 
-**Motivée, curieuse, créative, organisée, déterminée, rigoureuse et impliquée** je travaille en **[freelance](https://www.malt.fr/profile/angeliquebabin)** et je cherche des **projets qui me permettront d'enrichir davantage mes compétences** ainsi que d'en acquérir de nouvelles.
+**Motivée, curieuse, créative, organisée, déterminée, rigoureuse et impliquée** je cherche des **projets qui me permettront d'enrichir davantage mes compétences** ainsi que d'en acquérir de nouvelles.
 
 
 Vous pouvez me contacter :
 - soit sur Twitter [@AngeliqueBabin](https://twitter.com/AngeliqueBabin_)
-- soit via la plateforme [Malt.fr](https://www.malt.fr/profile/angeliquebabin)
 - soit par mail à l'adresse [babin.angelique@gmail.com](mailto:babin.angelique@gmail.com)
 
 ------------
